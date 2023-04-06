@@ -5,5 +5,6 @@ vcpkg_from_github (
     REPO yangrongwei/ray-CppGuid
     HEAD_REF master
     REF 49579713d72932e739e3cdb5ef3272983bbab452
+    SHA512 0
 )
 
