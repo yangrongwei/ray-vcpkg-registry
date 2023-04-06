@@ -1,0 +1,9 @@
+{
+  "$usage" : "This file contains the set of 'latest versions' at a certain commit.",
+  "default" : {
+    "ray-cppguid" : { 
+      "baseline" : "1.0.0", 
+      "port-version": 0
+    }
+  }
+}

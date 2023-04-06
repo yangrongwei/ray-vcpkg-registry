@@ -1,0 +1,6 @@
+{
+  "name" : "ray-cppguid",
+  "version" : "1.0.0",
+  "description": "Declare GUID by string literal.",
+  "homepage": "https://github.com/yangrongwei/ray-CppGuid"
+}
